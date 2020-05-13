@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "pergunta": "Sou frio e também sou quente, sou fraco e também sou forte, nunca posso estar parado, vejam lá a minha sorte!",
+        "resposta": "vento"
+    },
+    {
+        "id": 2,
+        "pergunta":"Qual é coisa, qual é ela, pequenina como a abelha, enche a casa até à telha?",
+        "resposta":"A luz"
+    },
+    {
+        "id": 3,
+        "pergunta":"Tem barba e não a corta, tem dentes e não come, tem rabo e não o arrasta.",
+        "resposta":"O alho"
+    },
+    {
+        "id": 4,
+        "pergunta":"Altos palácios, linda janelas, abrem e fecham, ninguém mora nelas.",
+        "resposta":"Os olhos"
+    },
+    {
+        "id": 5,
+        "pergunta":"Sempre quietas, sempre agitadas, dormindo de dia, à noite acordadas.",
+        "resposta":"As estrelas"
+    },
+    {
+        "id": 6,
+        "pergunta":"O que é, o que é, que tem um dente, e chama por toda a gente?",
+        "resposta":"O sino"
+    },
+    {
+        "id": 7,
+        "pergunta":"O que é, o que é, duas irmas que tanto andam e nunca chegam ao pé uma da outra?",
+        "resposta":"As rodas do carro"
+    },
+    {
+        "id": 8,
+        "pergunta":"Qual é a coisa, qual é ela, preto como uma panela?",
+        "resposta":"O carvao"
+    },
+    {
+        "id": 9,
+        "pergunta":"Qual é a coisa, qual é ela, quanto mais se mira, menos se vê?",
+        "resposta":"O sol"
+    },
+    {
+        "id": 10,
+        "pergunta":"O que é, o que é, que cai e fica sempre em pé?",
+        "resposta":"O gato"
+    },
+    {
+        "id": 11,
+        "pergunta":"O que que eu tenho no meu bolso?",
+        "resposta":"O PRECIOSO"
+    }
+]
